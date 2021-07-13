@@ -1,2 +1,2 @@
 # visualization-data
-Data Visulization of current competition
+Data Visulization of GRMDS competition https://grmds.org/competition/news-sentiment
